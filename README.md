@@ -2,6 +2,19 @@
 
 This Google Apps Script automatically extracts events from your school's emails and adds them to a shared Google Calendar, making it easier to keep track of important school dates and events.
 
+## Table of Contents
+
+- [Features](#features)
+- [Setup Instructions](#setup-instructions)
+  - [1. Create or Identify a Shared Google Calendar](#1-create-or-identify-a-shared-google-calendar)
+  - [2. Set Up the Script](#2-set-up-the-script)
+  - [3. Test the Setup](#3-test-the-setup)
+  - [4. Set Up Automatic Daily Runs (Optional)](#4-set-up-automatic-daily-runs-optional)
+- [Troubleshooting](#troubleshooting)
+- [Contributing](#contributing)
+- [Getting Help](#getting-help)
+- [License](#license)
+
 ## Features
 
 - 🔍 Automatically searches for emails from your school's domain
@@ -86,4 +99,37 @@ MIT License - Feel free to modify and share this script!
 
 ## Contributing
 
-Contributions are welcome! Please feel free to submit a Pull Request.
+We welcome contributions to improve this script! Whether you want to:
+
+- 🐛 Report bugs or issues
+- 💡 Suggest new features or improvements  
+- 📝 Improve documentation
+- 🔧 Submit code changes
+- ❓ Ask questions or get help
+
+**Please read our [Contributing Guide](CONTRIBUTING.md)** for detailed information on:
+
+- How to report issues effectively
+- Development setup and testing
+- Code style guidelines
+- Pull request process
+- Types of contributions we're looking for
+
+For quick contributions:
+- **Bug reports**: Use the [Issues](../../issues) tab with detailed reproduction steps
+- **Feature requests**: Create an issue describing your idea and use case
+- **Code changes**: Fork the repo, make your changes, and submit a pull request
+
+All contributors are expected to follow our guidelines and be respectful in their interactions.
+
+## Getting Help
+
+If you're having trouble with the script:
+
+1. **Check the [Troubleshooting](#troubleshooting) section** above for common issues
+2. **Review the [setup instructions](#setup-instructions)** to ensure proper configuration
+3. **Search existing [issues](../../issues)** to see if your problem has been addressed
+4. **Create a new issue** with detailed information about your problem
+5. **Check the execution logs** in Google Apps Script for error details
+
+For questions about Google Apps Script itself, refer to the [official documentation](https://developers.google.com/apps-script).
